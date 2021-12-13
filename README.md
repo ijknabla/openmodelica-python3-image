@@ -3,6 +3,11 @@ Dokcer image with OpenModelica and python3.x
 
 ## tags
 
+### bullseye
+
+- [omc1.18.0-py3.10-bullseye](https://hub.docker.com/repository/docker/ijknabla/openmodelica-python3/tags?&name=omc1.18.0-py3.10-bullseye)
+- [omc1.18.0-py3.6-bullseye](https://hub.docker.com/repository/docker/ijknabla/openmodelica-python3/tags?&name=omc1.18.0-py3.6-bullseye)
+
 ### buster
 
 - [omc1.17.0-py3.9-buster](https://hub.docker.com/repository/docker/ijknabla/openmodelica-python3/tags?&name=omc1.17.0-py3.9-buster)
