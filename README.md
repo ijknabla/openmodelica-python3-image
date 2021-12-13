@@ -5,5 +5,5 @@ Dokcer image with OpenModelica and python3.x
 
 ### buster
 
-- [omc1.17.0-py3.6](https://hub.docker.com/repository/docker/ijknabla/openmodelica-python3/tags?&name=omc1.17.0-py3.6-buster)
 - [omc1.17.0-py3.9](https://hub.docker.com/repository/docker/ijknabla/openmodelica-python3/tags?&name=omc1.17.0-py3.9-buster)
+- [omc1.17.0-py3.6](https://hub.docker.com/repository/docker/ijknabla/openmodelica-python3/tags?&name=omc1.17.0-py3.6-buster)
